@@ -28,4 +28,4 @@ Notification of Acceptance: March 15, 2020
 Camera-Ready Papers Due: March 31, 2020
 
 Submission Instructions
-See the ICMR 2020 Paper submission section.
+See the [ICMR 2020 Paper submission section](http://icmr2020.org/authors.html#submit).
